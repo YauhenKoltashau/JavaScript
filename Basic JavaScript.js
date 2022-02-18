@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 // 10. Create Decimal Numbers with JavaScript
 // Create a variable myDecimal and give it a decimal value with a fractional part (e.g. 5.7).
 const myDesimal = 5.7
@@ -68,11 +60,11 @@ a /= 12;
 b /= 4;
 c /= 11;
 // 18. Escaping Literal Quotes in Strings
-Use backslashes to assign a string to the myStr variable so that if you were to print it to the console, you would see:
+// Use backslashes to assign a string to the myStr variable so that if you were to print it to the console, you would see:
 
-I am a "double quoted" string inside "double quotes".
+// I am a "double quoted" string inside "double quotes".
 
-const myStr = "I am a \"double quoted\" string inside \"double quotes\"."; // Change this line
+const myStr = "I am a \"double quoted\" string inside \"double quotes\"."; 
 
 
 

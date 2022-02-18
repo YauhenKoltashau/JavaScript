@@ -15,11 +15,12 @@
   function functionWithArgs(elem1, elem2) {
   console.log(elem1 + elem2)
   }
-  functionWithArgs(10, 45)
+  functionWithArgs(10, 45) 
 
 // Return a Value from a Function with Return
   //Create a function timesFive that accepts one argument, multiplies it by 5, and returns the new value.
-  //function timesFive(arg) {
+  //function timesFive(arg) 
+  {
   return arg * 5 
   }
   
@@ -27,7 +28,7 @@
   //Using let or const, declare a global variable named myGlobal outside of any function. Initialize it with a value of 10.
   //Inside function fun1, assign 5 to oopsGlobal without using the let or const keywords.
   let myGlobal = 10;
-  function fun1()
+  function fun1() {
   oopsGlobal = 5;
   }
   
